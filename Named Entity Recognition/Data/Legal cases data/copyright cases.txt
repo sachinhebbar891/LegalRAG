@@ -1,0 +1,31 @@
+﻿Here are some landmark copyright-related cases in India that have significantly shaped copyright law:
+________________
+
+
+1. R.G. Anand vs. M/S Delux Films (1978)
+* Significance: Established the "substantial similarity" test for copyright infringement.
+* Summary: Playwright R.G. Anand sued Delux Films, claiming that the Bollywood movie New Delhi (1956) was copied from his play Hum Hindustani. The Supreme Court ruled that if two works are similar but independently created, there is no copyright infringement unless there is a "substantial" and "material" copying of expression, not just an idea.
+________________
+
+
+2. Eastern Book Company vs. D.B. Modak (2008)
+* Significance: Clarified copyright in legal databases and compilations.
+* Summary: Eastern Book Company, which published Supreme Court judgments in a formatted manner, sued D.B. Modak for using its version of judgments. The Supreme Court ruled that raw judgments are in the public domain, but a unique selection and arrangement of content (such as headnotes and summaries) may be copyrighted.
+________________
+
+
+3. Super Cassettes Industries Ltd. vs. MySpace Inc. (2011)
+* Significance: Defined intermediary liability for copyright infringement on digital platforms.
+* Summary: Super Cassettes (owner of T-Series) sued MySpace for allowing users to upload copyrighted songs and videos. The Delhi High Court ruled that MySpace must remove infringing content once notified but was not automatically liable for user-uploaded content. This case influenced India's approach to digital copyright enforcement.
+________________
+
+
+4. India TV vs. Yashraj Films (2013)
+* Significance: Established fair use exceptions for news reporting.
+* Summary: India TV used clips from Yashraj Films' copyrighted movies in a news broadcast. The Delhi High Court ruled that using short clips for news reporting and criticism falls under fair use and does not constitute copyright infringement, balancing the rights of media and copyright holders.
+________________
+
+
+5. Penguin Random House vs. Rameshwari Photocopy Services (2016)
+* Significance: Defined copyright limits in education.
+* Summary: Major publishers, including Penguin and Oxford University Press, sued Rameshwari Photocopy Services (a shop at Delhi University) for making photocopies of academic books. The Delhi High Court ruled in favor of the photocopy shop, stating that making copies for educational purposes was permitted under Indian copyright law, ensuring affordability of education materials.
